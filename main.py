@@ -17,8 +17,10 @@ origins = [
     "https://localhost.tiangolo.com",
     "http://localhost.tiangolo.com",
     "http://localhost", 
-    "https://g3m4-g10-catalogo-app1.herokuapp.com/",
-    "https://g3m4-g10-catalogo-app1.herokuapp.com/#/",
+    "https://g3m4-g10-catalogo-app1.herokuapp.com",
+    "https://g3m4-g10-catalogo-app1.herokuapp.com/#",
+    "http://g3m4-g10-catalogo-app1.herokuapp.com",
+    "http://g3m4-g10-catalogo-app1.herokuapp.com/#",
 ]
 
 api.add_middleware(
